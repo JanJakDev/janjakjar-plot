@@ -1,0 +1,34 @@
+h1{
+	font-size: 50;
+	text-decoration: underline;
+	text-align: center;
+	font-family: Ethnocentric;
+}
+
+p{
+	font-size: 20;
+	font-family: Ethnocentric;
+}
+
+hr{
+  border: 3px solid black;
+  border-radius: 5px;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1330;
+	height: auto;
+}
+
+body{
+	background-image: url('background.png');
+}
+
+button{
+	width: 200;
+	height: 60;
+	font-family: Ethnocentric;
+}
