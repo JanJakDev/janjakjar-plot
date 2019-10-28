@@ -5,7 +5,10 @@ function kontakt(){
 function item(x){
 	switch(x){
 		case 1:
-			alert("Item: name\nMenge: var St.\nPreis: ?$");
+			alert("Item: Ocelot Spawn Egg\nMenge: 1 St.\nPreis: 90k$");
+		break;
+		case 2:
+			alert("Item: Phorx's Kopf\nMenge: 1 St.\nPreis: 50k$");
 		break;
 	}
 }
