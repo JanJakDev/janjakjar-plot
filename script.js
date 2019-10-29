@@ -8,7 +8,7 @@ function item(x){
 			alert("Item: Ocelot Spawn Egg\nMenge: 1 St.\nPreis: 90k$");
 		break;
 		case 2:
-			alert("Item: Phorx's Kopf\nMenge: 1 St.\nPreis: 50k$");
+			alert("Item: Phorx's Kopf\nMenge: 1 St.\nPreis: 23k$");
 		break;
 	}
 }
